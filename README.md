@@ -4,7 +4,7 @@
 [Tableau Sales Dashboard](https://public.tableau.com/shared/NNKQQBK6X?:display_count=n&:origin=viz_share_link)
 
 
-This user story outlines the specifications for building two dashboards using Tableau to help stakeholders analyze sales performance:
+This user story outlines the specifications for building dashboard using Tableau to help stakeholders analyze sales performance:
 
 
 # Dashboard Purpose
